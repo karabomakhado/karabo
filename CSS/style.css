@@ -1,0 +1,62 @@
+
+h1{
+  color:grey;
+  font-size:20px;
+}
+.myclass{
+  background-color:violet;
+}
+p{
+  color:black;
+  font-size: 30px;
+  border:10px pink dotted;
+}
+h1{
+   color:grey;
+  font-size: 50px;
+  margin:3em;
+  border: 3px dotted;
+  padding: 20px;
+}
+li:hover{
+  font-size: 40px
+}
+
+body{
+background-color: pink;
+}
+
+img{
+  border: 5px black solid;
+  width: 500px;
+  height:300px;
+}
+
+ul{
+  background-color: grey;
+  font-size:1em;
+  border:3px dotted black;
+  transition:0,3s ease;
+}
+ol{
+  background-color: grey;
+  font-size:1em;
+  border:3px dotted black;
+  transition:0,3 eaes;
+}
+li:hover{
+  font size: 40px;
+  text decoration: underline;
+}
+
+img:hover{
+  height:150px;
+  width:200px;
+}
+
+li{
+  transition: 0.3s ease;
+}
+
+h1{
+  transiction:
